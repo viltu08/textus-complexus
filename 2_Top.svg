@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1082.61 1147.51"> <line x1="539.67" y1="1093.51" x2="539.67" y2="1147.51" fill="none" stroke="#ffeee4" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.19" vector-effect="non-scaling-stroke"/>
+  <g>
+    <polygon points="539.93 208.48 422.35 412.14 657.51 412.14 539.93 208.48" fill="none" stroke="#ffeee4" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"/>
+    <text transform="translate(502.61 345.61)" fill="#ffeee4" font-family="Tabular-Medium, Tabular" font-size="16.63" font-weight="500" letter-spacing=".02em"><tspan x="0" y="0">[text]us</tspan></text>
+    <polyline points="105.96 578.17 541.96 412.17 986.96 583.17" fill="none" stroke="#ffeee4" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"/>
+    <polyline points="231.82 579.17 541.96 412.17 862.1 583.17" fill="none" stroke="#ffeee4" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"/>
+    <polyline points="736.25 582.17 541.96 412.17 610.39 581.17" fill="none" stroke="#ffeee4" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"/>
+    <polyline points="356.67 580.17 541.96 412.17 483.53 580.17" fill="none" stroke="#ffeee4" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"/>
+    <polyline points="231.46 647.54 231.46 884.17 539.96 1088.17" fill="none" stroke="#ffeee4" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.19" vector-effect="non-scaling-stroke"/>
+    <polyline points="357.46 647.54 357.46 903.17 539.96 1088.17" fill="none" stroke="#ffeee4" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.19" vector-effect="non-scaling-stroke"/>
+    <polyline points="483.46 647.54 483.46 912.17 539.96 1088.17" fill="none" stroke="#ffeee4" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.19" vector-effect="non-scaling-stroke"/>
+    <polyline points="609.46 647.54 609.46 912.17 539.96 1088.17" fill="none" stroke="#ffeee4" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.19" vector-effect="non-scaling-stroke"/>
+    <polyline points="735.46 647.54 735.46 903.17 539.96 1088.17" fill="none" stroke="#ffeee4" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.19" vector-effect="non-scaling-stroke"/>
+    <polyline points="861.46 647.54 861.46 884.17 539.96 1088.17" fill="none" stroke="#ffeee4" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.19" vector-effect="non-scaling-stroke"/>
+    <polyline points="539.96 1088.17 105.46 845.17 105.46 647.54" fill="none" stroke="#ffeee4" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.19" vector-effect="non-scaling-stroke"/>
+    <polyline points="987.46 647.54 987.46 846.17 539.96 1088.17" fill="none" stroke="#ffeee4" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.19" vector-effect="non-scaling-stroke"/>
+    <path d="M547.17,751.06c207.46,0,386.34,33.34,468.58,81.44-82.24,48.09-261.12,81.41-468.58,81.41s-386.3-33.32-468.54-81.41c82.24-48.09,261.12-81.44,468.54-81.44Z" fill="none" stroke="#ffeee4" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.02" vector-effect="non-scaling-stroke"/>
+    <circle cx="539.75" cy="1088.37" r="6.75" fill="#f68d61"/>
+    <circle cx="105.72" cy="647.07" r="6.75" fill="#f68d61"/>
+    <circle cx="231.49" cy="647.85" r="6.75" fill="#f68d61"/>
+    <circle cx="357.27" cy="648.63" r="6.75" fill="#f68d61"/>
+    <circle cx="483.05" cy="649.41" r="6.75" fill="#f68d61"/>
+    <circle cx="609.82" cy="650.19" r="6.75" fill="#f68d61"/>
+    <circle cx="735.6" cy="650.97" r="6.75" fill="#f68d61"/>
+    <circle cx="861.38" cy="651.75" r="6.75" fill="#f68d61"/>
+    <circle cx="987.15" cy="652.54" r="6.75" fill="#f68d61"/>
+    <g>
+      <circle cx="105.72" cy="578.07" r="6.75" fill="#f68d61"/>
+      <circle cx="231.49" cy="578.85" r="6.75" fill="#f68d61"/>
+      <circle cx="357.27" cy="579.63" r="6.75" fill="#f68d61"/>
+      <circle cx="483.05" cy="580.41" r="6.75" fill="#f68d61"/>
+      <circle cx="609.82" cy="581.19" r="6.75" fill="#f68d61"/>
+      <circle cx="735.6" cy="581.97" r="6.75" fill="#f68d61"/>
+      <circle cx="861.38" cy="582.75" r="6.75" fill="#f68d61"/>
+      <circle cx="987.15" cy="583.54" r="6.75" fill="#f68d61"/>
+    </g>
+    <text transform="translate(32.94 621.09)" fill="#ffeee4" font-family="Tabular-Medium, Tabular" font-size="16.63" font-weight="500"><tspan x="0" y="0">hyper[text]</tspan></text>
+    <text transform="translate(183.16 621.09)" fill="#ffeee4" font-family="Tabular-Medium, Tabular" font-size="16.63" font-weight="500"><tspan x="0" y="0">sub[text]</tspan></text>
+    <text transform="translate(313.43 621.09)" fill="#ffeee4" font-family="Tabular-Medium, Tabular" font-size="16.63" font-weight="500"><tspan x="0" y="0">pre[text]</tspan></text>
+    <text transform="translate(674.3 621.09)" fill="#ffeee4" font-family="Tabular-Medium, Tabular" font-size="16.63" font-weight="500"><tspan x="0" y="0">con[text]</tspan></text>
+    <text transform="translate(804.56 621.09)" fill="#ffeee4" font-family="Tabular-Medium, Tabular" font-size="16.63" font-weight="500"><tspan x="0" y="0">para[text]</tspan></text>
+    <text transform="translate(944.81 621.09)" fill="#ffeee4" font-family="Tabular-Medium, Tabular" font-size="16.63" font-weight="500"><tspan x="0" y="0">meta[text]</tspan></text>
+    <text transform="translate(544.03 621.09)" fill="#ffeee4" font-family="Tabular-Medium, Tabular" font-size="16.63" font-weight="500"><tspan x="0" y="0">[text]ure</tspan></text>
+    <text transform="translate(443.7 621.09)" fill="#ffeee4" font-family="Tabular-Medium, Tabular" font-size="16.63" font-weight="500"><tspan x="0" y="0">[text]</tspan></text>
+    <text transform="translate(502.61 123.61)" fill="#ffeee4" font-family="Tabular-Medium, Tabular" font-size="16.63" font-weight="500" letter-spacing=".02em"><tspan x="0" y="0">[text]ile</tspan></text>
+    <line x1="539.92" y1="154.82" x2="539.92" y2="208.82" fill="none" stroke="#ffeee4" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.19" vector-effect="non-scaling-stroke"/>
+    <circle cx="539.82" cy="148.52" r="6.75" fill="#f68d61"/>
+  </g>
+</svg>
