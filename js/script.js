@@ -1,4 +1,8 @@
 window.onload = function () {
+    
+    
+    
+    
     // =====================================================
     // [1] Check for GSAP Core Library and Register Plugins
     // =====================================================
@@ -209,7 +213,7 @@ window.onload = function () {
     // [5] DrawSVG Animation for Other SVG Elements
     // =====================================================
     // Note: SVG22 is explicitly excluded here as it uses MotionPath
-    const elementsToDraw = gsap.utils.toArray(".overlay-svg-container [stroke]:not(#svg4 *, #svg5 *, #svg6 *, #svg22 *)");
+    const elementsToDraw = gsap.utils.toArray(".overlay-svg-container [stroke]:not(#svg4 *, #svg5 *, #svg6 *, #svg22 *. #brain *)");
 
 
     if (elementsToDraw.length === 0) {
@@ -786,3 +790,33 @@ document.addEventListener('DOMContentLoaded', () => {
 
     showSlide(currentIndex);
 });
+
+
+// pulsating brain
+
+document.addEventListener('DOMContentLoaded', function() {
+    // Make sure the SVG with id="brain" exists in the DOM
+    const brain = document.getElementById('brain');
+    
+    if (brain) {
+      // Create a timeline for smoother animation control
+      const tl = gsap.timeline({
+        repeat: -1, 
+        yoyo: true, 
+        ease: "power1.inOut" 
+      });
+      
+      // Add the pulsation animation to the timeline
+      tl.to(brain, {
+        duration: 1.2,
+        scale: 1.1,
+        transformOrigin: "center center", 
+        opacity: 0.8,
+      });
+      
+      
+      console.log("Brain pulsation animation started");
+    } else {
+      console.error("SVG with id='brain' not found in the document");
+    }
+  });
