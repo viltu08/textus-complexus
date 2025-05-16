@@ -213,7 +213,7 @@ window.onload = function () {
     // [5] DrawSVG Animation for Other SVG Elements
     // =====================================================
     // Note: SVG22 is explicitly excluded here as it uses MotionPath
-    const elementsToDraw = gsap.utils.toArray(".overlay-svg-container [stroke]:not(#svg4 *, #svg5 *, #svg6 *, #svg22 *. #brain *)");
+    const elementsToDraw = gsap.utils.toArray(".overlay-svg-container [stroke]:not(#svg4 *, #svg5 *, #svg6 *, #svg22 *, #brain *)");
 
 
     if (elementsToDraw.length === 0) {
@@ -801,19 +801,18 @@ document.addEventListener('DOMContentLoaded', function() {
     if (brain) {
       // Create a timeline for smoother animation control
       const tl = gsap.timeline({
-        repeat: -1, 
-        yoyo: true, 
-        ease: "power1.inOut" 
+        repeat: -1, // Infinite repetition
+        yoyo: true, // Play backwards on alternate cycles for smooth pulsation
+        ease: "power1.inOut" // Smooth easing
       });
       
       // Add the pulsation animation to the timeline
       tl.to(brain, {
-        duration: 1.2,
-        scale: 1.1,
-        transformOrigin: "center center", 
-        opacity: 0.8,
+        duration: 1.2, // Duration of each pulse
+        scale: 1.1, // Grow by 10%
+        transformOrigin: "center center", // Scale from the center
+        opacity: 0.8, // Slight opacity change for added effect
       });
-      
       
       console.log("Brain pulsation animation started");
     } else {
